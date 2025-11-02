@@ -9,7 +9,7 @@ function App() {
       <div className="w-1/2 text-gray-600">
         <div className="h-20 text-2xl w-full p-8 flex gap-4 items-center justify-center">
           <div className="font-bold">
-            <Link to="/" className="hover:text-black">eurdoch</Link>
+            <Link to="/" className="hover:text-black">auurtwrch</Link>
           </div>
 
           <div className="ml-auto" />
